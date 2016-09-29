@@ -1,0 +1,24 @@
+﻿{
+  "name": "Poly2Tri.NetStandard",
+  "version": "1.0.2-*",
+  "authors": [
+    "https://code.google.com/p/poly2tri/people/list"
+  ],
+  "packOptions": {
+    "owners": [
+      "https://code.google.com/p/poly2tri/people/detail?u=113158675721513411716"
+    ],
+    "licenseUrl": "http://www.opensource.org/licenses/BSD-3-Clause",
+    "projectUrl": "https://code.google.com/p/poly2tri/",
+    "requireLicenseAcceptance": false
+  },
+  "description": "A 2D constrained Delaunay triangulation library",
+  "frameworks": {
+    "netstandard1.3": {
+      "dependencies": {
+        "NETStandard.Library": "1.6.0"
+      }
+    },
+    "net35": {}
+  }
+}
